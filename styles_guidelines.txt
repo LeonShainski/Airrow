@@ -1,0 +1,37 @@
+Overall Look and Feel of Airrow
+===============================
+
+The overall look and feel should be minimalist and organized. We will avoid 3d buttons and 3d metal looks.
+The Airrow website will be as simple as possible while also providing the user with enough information.
+The website is targeting business audiences. It is important to remain professional and direct.
+The website will have a vertical scroll and a navigation bar that directs users to different pages.
+
+Colours
+========
+For Airrow, colors help simplify the Airrow software by prioritizing the clarity of the text. Professionalism is our main priority.
+These are our color swatches:
+
+- #00284d
+- #ffffff
+- #666699
+- #ff9933
+- #000000
+
+Iconography
+===========
+We will focus on using icons that have are minimilistic and identifiable for any user. The icons should be simple and the same
+color. 
+
+Typography
+==========
+We will be testing out a number of different fonts such as Roboto, Lato, Open Sans, Montserrat from Google Fonts.
+
+Hover
+=====
+Certain headlines will have an over-hover feature where once it is hovered over, it lights up to a different color. 
+Colors are listed above.
+
+Buttons
+=======
+Buttons will be flat designed using the chosen colors outlined above.
+One button will be highlighted with an up arrow to allow the user to scroll to the top of the page.
